@@ -1,1 +1,25 @@
-theme: jekyll-theme-cayman
+# Site settings
+title: Epoch
+description: <a>“Where your treasure is,<br>there will your heart be also.”<br>  <br>Enjoy Jiyu-Xie(Ploso)'s Portfolio.<br></a>
+baseurl: "/Portfolio" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site
+author:
+
+# Collection settings
+collections:
+  photos:
+
+# Social settings
+#500px_url:
+#facebook_url:
+#github_url:
+#gitlab_url: #https://gitlab.com/u/andrewbanchich
+#googleplus_url: #https://plus.google.com/u/0/+AndrewBanchich
+#instagram_url:
+#linkedin_url: #https://www.linkedin.com/in/andrew-banchich-a4ba1195
+#pinterest_url:
+#slack_url:
+#twitter_url: #https://twitter.com/andrewbanchich
+
+# Build settings
+markdown: kramdown
