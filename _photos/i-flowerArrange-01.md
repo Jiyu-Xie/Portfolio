@@ -2,5 +2,5 @@
 title: Flower Arrangement. July.2018
 image: assets/images/fulls/Flower-Bouquet-01-2018-7-24.jpg
 thumbnail: assets/images/thumbs/Flower-Bouquet-01-2018-7-24.jpg
-caption: Flower Arrangement. July.2018
+caption: Flower Arrangement. By Jiyu-Xie(谢济宇), Xiaoyue Liu(刘笑悦). July.2018
 ---
